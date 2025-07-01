@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ricambi-auto-5000.netlify.app/sitemap.xml
