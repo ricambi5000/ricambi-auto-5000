@@ -1,0 +1,2 @@
+# Redirect www to non-www
+https://www.ricambi-auto-5000.netlify.app/* https://ricambi-auto-5000.netlify.app/:splat 301!
